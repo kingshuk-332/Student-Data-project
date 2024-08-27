@@ -41,6 +41,7 @@ The Marks Management System is a smart contract designed to facilitate the manag
 ## Contract Address
 
 The contract address will be available upon deployment. After deploying the contract on the Ethereum network, you will receive the contract address which can be used to interact with the deployed contract.
+Contact address-0x3fa57cb806fa7e4e8b9e107f9a974f6846d2514a
 
 ## Future Scope
 
@@ -53,6 +54,7 @@ The contract address will be available upon deployment. After deploying the cont
 ## Contact Details
 
 For any queries or further information, please contact:
+Phone number-7086521520
 
 - **Name**: KINGSHUK DAS
 - **Email**: KINGSHUKDAS332@GMAIL.COM
