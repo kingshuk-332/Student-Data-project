@@ -56,8 +56,7 @@ For any queries or further information, please contact:
 
 - **Name**: KINGSHUK DAS
 - **Email**: KINGSHUKDAS332@GMAIL.COM
-- **GitHub**: [Your GitHub Profile URL]
+- **GitHub**: https://github.com/kingshuk-332
 
 ---
 
-Feel free to adjust the contact details and any other sections to fit your needs.
